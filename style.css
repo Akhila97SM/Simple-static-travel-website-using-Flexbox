@@ -37,7 +37,7 @@ body {
 }
 
 .section {
-  padding: 80px 0 80px 0 ;
+  padding: 100px 0 100px 0 ;
 }
 
 .navbar {
@@ -89,15 +89,15 @@ body {
 .bg{
   position: absolute;
   top: -20px;
-  left: 56%;
+  right: -25%;
   z-index: -1;
   display: block;
 }
 
 .flight{
   position: absolute;
-  top: -5%;
-  right: 35%;
+  top: 10%;
+  right: 38%;
 }
 
 .hero-sctn {
@@ -589,6 +589,7 @@ body {
   border: none;
   padding: 20px 20px;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .footer-txt h3 {
